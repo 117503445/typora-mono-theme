@@ -1,0 +1,42 @@
+* {
+	font-family: "Microsoft YaHei Mono";
+}
+
+.cm-s-typora-default .cm-comment, .cm-s-typora-default .cm-code {
+	font-family: "Microsoft YaHei Mono";
+}
+
+.cm-s-typora-default .cm-overlay {
+	font-family: "Microsoft YaHei Mono";
+}
+
+.cm-s-typora-default .cm-header, .cm-s-typora-default .cm-property {
+	color: #111;
+}
+
+html, body, #write {
+	background: #ffffff;
+	font-weight: 400;
+}
+
+ul {
+	list-style-type: disc;
+	padding-left: 20px;
+}
+
+ol{
+	padding-left: 27px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #111;
+}
+
+html {
+	font-size: 16px;
+}
+
+p {
+	color: #111;
+	font-size: 1rem;
+}
